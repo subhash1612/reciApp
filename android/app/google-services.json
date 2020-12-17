@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866644064507",
+    "firebase_url": "https://recipe-744aa.firebaseio.com",
+    "project_id": "recipe-744aa",
+    "storage_bucket": "recipe-744aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866644064507:android:c35fcd6161281ec493585e",
+        "android_client_info": {
+          "package_name": "subhashraja.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866644064507-jjebd0gtgrt0h0dtnt4fron2jlnevf7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARmvpb5dWA9bYlVjoCaWB2cp_INBd4umw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866644064507-jjebd0gtgrt0h0dtnt4fron2jlnevf7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
